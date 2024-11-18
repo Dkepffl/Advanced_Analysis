@@ -13,3 +13,6 @@
 - Dropout...불러놓고 안 씀
 - Residual Connection.... 안 한 듯
 - 여전히...Positional Encoding이 뭐죠?
+## 2024.11.18 23:46
+- Multi Head Attention까지 완료
+- **Dimension 확인 필요**
