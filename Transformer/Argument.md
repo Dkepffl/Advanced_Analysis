@@ -19,3 +19,8 @@ output = multiheadattention(q, k, v, mask=None)
 ffn = PositionwiseFeedForwardNetwork(d_model, num_head)
 output = ffn(x)
 ```
+### **Layer Normalization**
+```python
+norm = LayerNormalization(d_model, eps)
+normed = norm(x)
+```
