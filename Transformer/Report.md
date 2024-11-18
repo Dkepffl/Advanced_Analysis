@@ -18,3 +18,5 @@
 - **Dimension 확인 필요**
 ## 2024.11.19 1:06
 - Masking 어떻게 하는 거죠?
+- device 확인 좀
+- argument 그냥 `arg=arg`로 하는 게 맘 편할 듯
