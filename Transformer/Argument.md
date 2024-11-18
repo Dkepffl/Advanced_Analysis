@@ -14,3 +14,8 @@ attention_value = attention(q, k, v, mask=None)
 multiheadattention = MultiHeadAttention(d_model, num_head)
 output = multiheadattention(q, k, v, mask=None)
 ```
+### **PositionwiseFeedForwardNetwork**
+```python
+ffn = PositionwiseFeedForwardNetwork(d_model, num_head)
+output = ffn(x)
+```
