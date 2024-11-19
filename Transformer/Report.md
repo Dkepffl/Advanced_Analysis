@@ -20,3 +20,7 @@
 - Masking 어떻게 하는 거죠?
 - device 확인 좀
 - argument 그냥 `arg=arg`로 하는 게 맘 편할 듯
+## 2024.11.19
+- Debugging
+- 1 epoch 돌려보는 중
+- https://wikidocs.net/217018
