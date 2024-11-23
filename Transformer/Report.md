@@ -24,6 +24,7 @@
 - masking 어떻게든 해봄
 - Debugging
 - 1 epoch 돌려보는 중
+- loss가 대박 짱 크다
 - https://wikidocs.net/217018
 ## 2024.11.23 
 - GPU에 안 올라간 애가 있는 것 같아요
