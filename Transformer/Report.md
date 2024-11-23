@@ -21,6 +21,9 @@
 - device 확인 좀
 - argument 그냥 `arg=arg`로 하는 게 맘 편할 듯
 ## 2024.11.19
+- masking 어떻게든 해봄
 - Debugging
 - 1 epoch 돌려보는 중
 - https://wikidocs.net/217018
+## 2024.11.23 
+- GPU에 안 올라간 애가 있는 것 같아요
